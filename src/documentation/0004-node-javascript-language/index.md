@@ -17,6 +17,7 @@ I would recommend you to have a good grasp of the main JavaScript concepts befor
 * Variables
 * Functions
 * this
+* If
 * Arrow Functions
 * Loops
 * Scopes
